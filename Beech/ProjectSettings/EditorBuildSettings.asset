@@ -6,12 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: a4b03d11f8e0acb47a9364b09545fdaf
   - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: ebf721ca233d9924bbd52925ff829549
+  - enabled: 1
+    path: Assets/Scenes/Calendar.unity
+    guid: d112cc44db199cf48b199d03101f36ff
+  - enabled: 1
+    path: Assets/Scenes/Morning.unity
+    guid: 117dfb841325eae41902c647f7ae04b0
+  - enabled: 1
+    path: Assets/Scenes/SnowCones.unity
+    guid: 8e4d318204820d744bf6c0d42a45b72d
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: c2fcf9149261e9245b1a8198c77de958
+  - enabled: 1
+    path: Assets/Scenes/Location1.unity
+    guid: bdc4be44cb3c6b948b096f5f98906beb
+  - enabled: 1
+    path: Assets/Scenes/Night.unity
+    guid: 714a9e236a31d874aacfd198903a68b2
   m_configObjects: {}
